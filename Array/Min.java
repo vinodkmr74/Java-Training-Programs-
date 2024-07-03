@@ -11,6 +11,6 @@ public class Min {
                 min = arr[i];
             }
         }
-        System.out.println("mix: "+min);
+        System.out.println("mix: " + min);
     }
 }
